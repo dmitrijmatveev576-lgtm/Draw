@@ -1,0 +1,14 @@
+C:\Users\dmitr\OneDrive\Рабочий стол\Draw\bin\Debug\net10.0\Draw.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\Draw\bin\Debug\net10.0\Draw.deps.json
+C:\Users\dmitr\OneDrive\Рабочий стол\Draw\bin\Debug\net10.0\Draw.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Рабочий стол\Draw\bin\Debug\net10.0\Draw.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Draw\bin\Debug\net10.0\Draw.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\Draw\obj\Debug\net10.0\Draw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Рабочий стол\Draw\obj\Debug\net10.0\Draw.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Draw\obj\Debug\net10.0\Draw.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Рабочий стол\Draw\obj\Debug\net10.0\Draw.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Draw\obj\Debug\net10.0\Draw.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Draw\obj\Debug\net10.0\refint\Draw.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\Draw\obj\Debug\net10.0\Draw.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\Draw\obj\Debug\net10.0\Draw.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\Draw\obj\Debug\net10.0\ref\Draw.dll
